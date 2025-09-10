@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author-Gauthami S
+Author-Gauthami S (Apna College)
